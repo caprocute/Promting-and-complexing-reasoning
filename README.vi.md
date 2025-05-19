@@ -6,10 +6,9 @@ Chào mừng đến với bộ công cụ Prompt Enhancer, một ứng dụng đ
 
 ## Bắt Đầu Sử Dụng
 
-### 1. Truy cập trực tuyến:
+### 1. Môi trường:
 
-   Bạn có thể truy cập trang web Prompt Enhancer trực tiếp bằng cách truy cập URL sau:
-   https://prompt-enhancer.streamlit.app/
+   Python 3 v3.10 (recommend) - Higher version may be not compatibility!
 
 ### 2. Cài đặt cục bộ:
 1. **Sao chép repository Prompt Enhancer**:

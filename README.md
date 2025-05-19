@@ -109,18 +109,12 @@ The tool incorporates emotional prompts like "This is very important to my caree
 2. **LangChain**: Seamlessly integrates large language models into the application
 3. **OpenAI API**: Connects to OpenAI's models to provide real-time prompt enhancement
 
-## Contact
-
-- **Email**: lim.gadi@gmail.com
-- **GitHub**: [@lim-hyo-jeong](https://github.com/lim-hyo-jeong)
-- **Linkedin**: https://www.linkedin.com/in/lim-hyo-jeong/
-
 ---
 
 # :rocket: Prompt Enhancer
 #### Kỹ Thuật Prompt Engineering Ngay Trong Tầm Tay!
 
-Chào mừng đến với Prompt Enhancer, một ứng dụng được xây dựng bằng Streamlit để cải thiện prompt của bạn một cách dễ dàng. Công cụ này tích hợp nhiều nguyên tắc kỹ thuật prompt engineering, được nêu trong bài báo [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171.pdf). Với Prompt Enhancer, bạn có thể dễ dàng áp dụng các kỹ thuật prompt engineering đã được nghiên cứu mới nhất xác nhận thông qua giao diện thân thiện với người dùng, nâng cao khả năng giao tiếp với các mô hình AI.
+Chào mừng đến với Prompt Enhancer, một ứng dụng được xây dựng bằng Streamlit để cải thiện prompt của bạn một cách dễ dàng. Công cụ này tích hợp nhiều nguyên tắc kỹ thuật prompt engineering, được nêu trong bài giảng của Phontron về [Advanced Natural Language Processing - Prompting (2024)](https://phontron.com/class/anlp-fall2024/assets/slides/anlp-07-prompting.pdf). Với Prompt Enhancer, bạn có thể dễ dàng áp dụng các kỹ thuật prompt engineering đã được nghiên cứu mới nhất xác nhận thông qua giao diện thân thiện với người dùng, nâng cao khả năng giao tiếp với các mô hình AI.
 
 ## Bắt Đầu Sử Dụng
 
@@ -227,9 +221,3 @@ Công cụ này tích hợp các prompt cảm xúc như "Điều này rất quan
 1. **Streamlit**: Tạo giao diện người dùng trực quan cho trải nghiệm người dùng hấp dẫn
 2. **LangChain**: Tích hợp liền mạch các mô hình ngôn ngữ lớn vào ứng dụng
 3. **OpenAI API**: Kết nối với các mô hình của OpenAI để cung cấp khả năng cải thiện prompt theo thời gian thực
-
-## Liên Hệ
-
-- **Email**: lim.gadi@gmail.com
-- **GitHub**: [@lim-hyo-jeong](https://github.com/lim-hyo-jeong)
-- **Linkedin**: https://www.linkedin.com/in/lim-hyo-jeong/

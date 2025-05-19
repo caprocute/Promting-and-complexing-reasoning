@@ -94,9 +94,14 @@ Enhance your prompts with these powerful phrases:
 
 ## Research and Inspiration
 
-Prompt Enhancer integrates various prompt engineering techniques based on principles from the VILA-Lab paper [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 (2024)](https://arxiv.org/pdf/2312.16171.pdf).
+Prompt Enhancer integrates various prompt engineering techniques based on principles from multiple research sources:
 
-Additionally, the tool allows users to integrate emotional prompts like "This is very important to my career," inspired by Microsoft's research [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli (2023)](https://arxiv.org/pdf/2307.11760.pdf). Users can also choose to add phrases like "Take a deep breath and work on this step by step," encouraging the AI to provide better answers, as confirmed by Google DeepMind's research [Large Language Models as Optimizers (2023)](https://arxiv.org/pdf/2309.03409.pdf).
+1. VILA-Lab's paper [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 (2024)](https://arxiv.org/pdf/2312.16171.pdf)
+2. Phontron's lecture on [Advanced Natural Language Processing - Prompting (2024)](https://phontron.com/class/anlp-fall2024/assets/slides/anlp-07-prompting.pdf)
+3. Microsoft's research on [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli (2023)](https://arxiv.org/pdf/2307.11760.pdf)
+4. Google DeepMind's research on [Large Language Models as Optimizers (2023)](https://arxiv.org/pdf/2309.03409.pdf)
+
+The tool incorporates emotional prompts like "This is very important to my career," inspired by Microsoft's research. Users can also choose to add phrases like "Take a deep breath and work on this step by step," encouraging the AI to provide better answers, as confirmed by Google DeepMind's research.
 
 ## Technologies Used
 
@@ -208,9 +213,14 @@ Nâng cấp prompt của bạn với các cụm từ mạnh mẽ này:
 
 ## Nghiên Cứu và Nguồn Cảm Hứng
 
-Prompt Enhancer tích hợp nhiều kỹ thuật prompt engineering dựa trên các nguyên tắc từ bài báo của VILA-Lab [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 (2024)](https://arxiv.org/pdf/2312.16171.pdf).
+Prompt Enhancer tích hợp nhiều kỹ thuật prompt engineering dựa trên các nguyên tắc từ nhiều nguồn nghiên cứu:
 
-Ngoài ra, công cụ này còn cho phép người dùng tích hợp các prompt cảm xúc như "Điều này rất quan trọng đối với sự nghiệp của tôi", được lấy cảm hứng từ nghiên cứu của Microsoft [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli (2023)](https://arxiv.org/pdf/2307.11760.pdf). Người dùng cũng có thể chọn thêm các cụm từ như "Hãy hít thở sâu và giải quyết vấn đề này từng bước một", khuyến khích AI đưa ra câu trả lời tốt hơn, được xác nhận bởi nghiên cứu của Google DeepMind [Large Language Models as Optimizers (2023)](https://arxiv.org/pdf/2309.03409.pdf).
+1. Bài báo của VILA-Lab [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 (2024)](https://arxiv.org/pdf/2312.16171.pdf)
+2. Bài giảng của Phontron về [Advanced Natural Language Processing - Prompting (2024)](https://phontron.com/class/anlp-fall2024/assets/slides/anlp-07-prompting.pdf)
+3. Nghiên cứu của Microsoft về [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli (2023)](https://arxiv.org/pdf/2307.11760.pdf)
+4. Nghiên cứu của Google DeepMind về [Large Language Models as Optimizers (2023)](https://arxiv.org/pdf/2309.03409.pdf)
+
+Công cụ này tích hợp các prompt cảm xúc như "Điều này rất quan trọng đối với sự nghiệp của tôi", được lấy cảm hứng từ nghiên cứu của Microsoft. Người dùng cũng có thể chọn thêm các cụm từ như "Hãy hít thở sâu và giải quyết vấn đề này từng bước một", khuyến khích AI đưa ra câu trả lời tốt hơn, được xác nhận bởi nghiên cứu của Google DeepMind.
 
 ## Công Nghệ Sử Dụng
 

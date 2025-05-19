@@ -5,9 +5,8 @@ Welcome to Prompt Enhancer, a Streamlit application designed to help you improve
 
 ## Getting Started
 
-### 1. Online Access:
-   You can access the Prompt Enhancer web application directly at:
-   https://prompt-enhancer.streamlit.app/
+### 1. Environment:
+   Python 3 v3.10 (recommend) - Higher version may be not compatibility!
 
 ### 2. Local Installation:
 1. **Clone the Prompt Enhancer repository**:

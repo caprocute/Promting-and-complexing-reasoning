@@ -1,7 +1,7 @@
 # :rocket: Prompt Enhancer
 #### Prompt Engineering Techniques at Your Fingertips!
 
-Welcome to Prompt Enhancer, a Streamlit application designed to help you improve your prompts easily. This tool integrates various prompt engineering techniques based on the paper [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171.pdf). With Prompt Enhancer, you can easily apply the latest research-backed prompt engineering techniques through a user-friendly interface to enhance your communication with AI models.
+Welcome to Prompt Enhancer, a Streamlit application designed to help you improve your prompts easily. This tool integrates various prompt engineering techniques based on the slider [Prompting and Complex Reasoning](https://phontron.com/class/anlp-fall2024/assets/slides/anlp-07-prompting.pdf). With Prompt Enhancer, you can easily apply the latest research-backed prompt engineering techniques through a user-friendly interface to enhance your communication with AI models.
 
 ## Getting Started
 

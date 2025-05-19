@@ -1,7 +1,7 @@
 # :rocket: Prompt Enhancer
 #### Kỹ Thuật Prompt Engineering Ngay Trong Tầm Tay!
 
-Chào mừng đến với Prompt Enhancer, một ứng dụng được xây dựng bằng Streamlit để cải thiện prompt của bạn một cách dễ dàng. Công cụ này tích hợp nhiều nguyên tắc kỹ thuật prompt engineering, được nêu trong bài báo [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171.pdf). Với Prompt Enhancer, bạn có thể dễ dàng áp dụng các kỹ thuật prompt engineering đã được nghiên cứu mới nhất xác nhận thông qua giao diện thân thiện với người dùng, nâng cao khả năng giao tiếp với các mô hình AI.
+Chào mừng đến với bộ công cụ Prompt Enhancer, một ứng dụng được xây dựng bằng Streamlit để cải thiện prompt của bạn một cách dễ dàng. Công cụ này tích hợp nhiều nguyên tắc kỹ thuật prompt engineering, được nêu trong bài giảng [Prompting and Complex Reasoning](https://phontron.com/class/anlp-fall2024/assets/slides/anlp-07-prompting.pdf). Với Prompt Enhancer, bạn có thể dễ dàng áp dụng các kỹ thuật prompt engineering đã được nghiên cứu mới nhất xác nhận thông qua giao diện thân thiện với người dùng, nâng cao khả năng giao tiếp với các mô hình AI.
 
 
 ## Bắt Đầu Sử Dụng
@@ -14,7 +14,7 @@ Chào mừng đến với Prompt Enhancer, một ứng dụng được xây dự
 ### 2. Cài đặt cục bộ:
 1. **Sao chép repository Prompt Enhancer**:
    ```
-   git clone https://github.com/lim-hyo-jeong/Prompt-Enhancer.git
+   git clone https://github.com/caprocute/Promting-and-complexing-reasoning.git
    ```
 2. **Cài đặt các gói cần thiết**:
    ```
